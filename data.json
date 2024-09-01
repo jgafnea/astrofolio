@@ -6,7 +6,7 @@
     "email": "jgafnea@gmail.com",
     "phone": "",
     "url": "https://jgafnea.github.io",
-    "summary": "I'm a seasoned professional with over ten years in IT and five years in hospitality. Python is my main squeeze (see what I did there?) but I'm good too with Bash and okay with JavaScript/TypeScript and Go. Skilled too using IaC, CM, and CI/CD to streamline and automate tasks (using as many acronyms as possible).",
+    "summary": "I'm a seasoned professional with ten years in IT and five years in hospitality, so I can resolve issues both with computers and people. Python is my main squeeze (see what I did there?), but I'm proficient also with Bash, Go, and JavaScript. Skilled too using IaC, CM, and CI/CD to streamline and automate tasks (using as many acronyms as possible).",
     "location": {
       "address": "",
       "postalCode": "",
@@ -70,9 +70,9 @@
       "isActive": "",
       "startDate": "",
       "endDate": "",
-      "description": "Landing page for fictional startup.",
-      "highlights": ["Python", "Flask", "Jinja", "GitHUb Actions"],
-      "url": ""
+      "description": "Fictional startup landing page that creates nonsense pitch ideas.",
+      "highlights": ["Python", "Flask", "Jinja", "Tailwind", "GitHub Actions", "Mocker API", "ItsThisForThat API"],
+      "url": "https://github.com/jgafnea/startup"
     },
     {
       "name": "Tray CGM",
