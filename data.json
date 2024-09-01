@@ -1,0 +1,96 @@
+{
+  "basics": {
+    "name": "John Gafnea",
+    "label": "Infrastructure Engineer",
+    "image": "",
+    "email": "jgafnea@gmail.com",
+    "phone": "",
+    "url": "https://jgafnea.github.io",
+    "summary": "I'm a seasoned professional with over ten years in IT and five years in hospitality. Python is my main squeeze (see what I did there?) but I'm good too with Bash and okay with JavaScript/TypeScript and Go. Skilled too using IaC, CM, and CI/CD to streamline and automate tasks (using as many acronyms as possible).",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": [
+      {
+        "network": "GitHub",
+        "username": "jgafnea",
+        "url": "https://github.com/jgafnea"
+      },
+      {
+        "network": "LinkedIn",
+        "username": "jgafnea",
+        "url": "https://linkedin.com/in/jgafnea"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "",
+      "position": "",
+      "url": "",
+      "startDate": "",
+      "endDate": "",
+      "summary": "",
+      "highlights": []
+    }
+  ],
+  "education": [
+    {
+      "institution": "",
+      "startDate": "",
+      "endDate": "",
+      "degree": "",
+      "description": ""
+    }
+  ],
+  "skills": [
+    "AWS",
+    "Ansible",
+    "Bash",
+    "Docker",
+    "Git",
+    "GitHub Actions",
+    "Go",
+    "Grafana",
+    "JavaScript",
+    "Kubernetes",
+    "Linux",
+    "Prometheus",
+    "Python",
+    "SQL",
+    "Terraform"
+  ],
+  "projects": [
+    {
+      "name": "Startup",
+      "isActive": "",
+      "startDate": "",
+      "endDate": "",
+      "description": "Landing page for fictional startup.",
+      "highlights": ["Python", "Flask", "Jinja", "GitHUb Actions"],
+      "url": ""
+    },
+    {
+      "name": "Tray CGM",
+      "isActive": "",
+      "startDate": "",
+      "endDate": "",
+      "description": "Desktop application that displays current glucose reading (used by diabetics) in system tray.",
+      "highlights": ["Python", "AppIndicator", "GTK"],
+      "url": ""
+    },
+    {
+      "name": "Bookish",
+      "isActive": "",
+      "startDate": "",
+      "endDate": "",
+      "description": "CLI tool for downloading eBooks, resolves spammy mirror links to direct downloads.",
+      "highlights": ["Python", "Poetry", "Docker", "LibGen API"],
+      "url": ""
+    }
+  ]
+}
