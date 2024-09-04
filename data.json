@@ -6,7 +6,7 @@
     "email": "jgafnea@gmail.com",
     "phone": "",
     "url": "https://jgafnea.github.io",
-    "summary": "I'm a seasoned professional with ten years in IT and five years in hospitality, so I can resolve issues both with computers and people. Python is my main squeeze (see what I did there?), but I'm proficient also with Bash, Go, and JavaScript. Skilled too using IaC, CM, and CI/CD to streamline and automate tasks (using as many acronyms as possible).",
+    "summary": "",
     "location": {
       "address": "",
       "postalCode": "",
@@ -15,6 +15,16 @@
       "region": ""
     },
     "profiles": [
+      {
+        "network": "Mail",
+        "username": "",
+        "url": "mailto:jgafnea@gmail.com"
+      },
+      {
+        "network": "Telegram",
+        "username": "jgafnea",
+        "url": "https://t.me/jgafnea"
+      },
       {
         "network": "GitHub",
         "username": "jgafnea",
@@ -71,7 +81,15 @@
       "startDate": "",
       "endDate": "",
       "description": "Fictional startup landing page that creates nonsense pitch ideas.",
-      "highlights": ["Python", "Flask", "Jinja", "Tailwind", "GitHub Actions", "Mocker API", "ItsThisForThat API"],
+      "highlights": [
+        "Python",
+        "Flask",
+        "Jinja",
+        "Tailwind",
+        "GitHub Actions",
+        "Mocker API",
+        "ItsThisForThat API"
+      ],
       "url": "https://github.com/jgafnea/startup"
     },
     {
