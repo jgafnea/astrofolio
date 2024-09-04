@@ -1,5 +1,5 @@
 {
-  "name": "astro-minimalist-portfolio",
+  "name": "astrofolio",
   "type": "module",
   "version": "0.0.1",
   "scripts": {
@@ -15,4 +15,3 @@
     "typescript": "^5.5.3"
   }
 }
-
