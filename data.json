@@ -76,31 +76,31 @@
   ],
   "projects": [
     {
-      "name": "Startup",
+      "name": "Bookish",
       "isActive": "",
       "startDate": "",
       "endDate": "",
-      "description": "Static landing page created to see what's possible on frontend without JS. Content fetched from APIs and combined to form nonsense startup pitch ideas.",
-      "highlights": ["Python", "Flask", "Jinja", "CI/CD"],
-      "url": "https://github.com/jgafnea/startup"
+      "description": "CLI tool created to search and download eBooks without spammy websites. Uses LibGen API to search books and resolve mirror links to direct downloads.",
+      "highlights": ["Python", "Poetry", "Docker"],
+      "url": "https://github.com/jgafnea/bookish"
     },
     {
       "name": "Tray CGM",
       "isActive": "",
       "startDate": "",
       "endDate": "",
-      "description": "Desktop application created to display glucose reading in system tray. Service polls medical device API and updates icon with latest values.",
-      "highlights": ["Python", "AppIndicator", "GNOME/GTK"],
+      "description": "Desktop application created to display glucose reading in system tray. Service polls medical device API and and updates icon with latest values.",
+      "highlights": ["Python", "AppIndicator", "GTK"],
       "url": "https://github.com/jgafnea/traycgm"
     },
     {
-      "name": "Bookish",
+      "name": "Startup",
       "isActive": "",
       "startDate": "",
       "endDate": "",
-      "description": "CLI tool created to search and download eBooks without spammy websites. Uses LibGen API to search and resolves mirrors to direct downloads.",
-      "highlights": ["Python", "Poetry", "Docker"],
-      "url": ""
+      "description": "Static landing page created to see what's possible without JavaScript. Content fetched from APIs and combined to form nonsense pitch ideas.",
+      "highlights": ["Python", "Flask", "GitHub Actions"],
+      "url": "https://github.com/jgafnea/startup"
     }
   ]
 }
