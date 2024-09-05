@@ -80,16 +80,8 @@
       "isActive": "",
       "startDate": "",
       "endDate": "",
-      "description": "Fictional startup landing page that creates nonsense pitch ideas.",
-      "highlights": [
-        "Python",
-        "Flask",
-        "Jinja",
-        "Tailwind",
-        "GitHub Actions",
-        "Mocker API",
-        "ItsThisForThat API"
-      ],
+      "description": "Static landing page created to see what's possible on frontend without JS. Content fetched from APIs and combined to form nonsense startup pitch ideas.",
+      "highlights": ["Python", "Flask", "Jinja", "CI/CD"],
       "url": "https://github.com/jgafnea/startup"
     },
     {
@@ -97,17 +89,17 @@
       "isActive": "",
       "startDate": "",
       "endDate": "",
-      "description": "Desktop application that displays current glucose reading (used by diabetics) in system tray.",
-      "highlights": ["Python", "AppIndicator", "GTK"],
-      "url": ""
+      "description": "Desktop application created to display glucose reading in system tray. Service polls medical device API and updates icon with latest values.",
+      "highlights": ["Python", "AppIndicator", "GNOME/GTK"],
+      "url": "https://github.com/jgafnea/traycgm"
     },
     {
       "name": "Bookish",
       "isActive": "",
       "startDate": "",
       "endDate": "",
-      "description": "CLI tool for downloading eBooks, resolves spammy mirror links to direct downloads.",
-      "highlights": ["Python", "Poetry", "Docker", "LibGen API"],
+      "description": "CLI tool created to search and download eBooks without spammy websites. Uses LibGen API to search and resolves mirrors to direct downloads.",
+      "highlights": ["Python", "Poetry", "Docker"],
       "url": ""
     }
   ]
