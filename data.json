@@ -87,7 +87,7 @@
     {
       "name": "Tray CGM",
       "isActive": true,
-      "description": "Desktop application created to display glucose reading in system tray. Service polls medical device API and and updates icon with latest values.",
+      "description": "Desktop application created to display glucose reading in system tray. Service polls medical device API and updates icon with latest values.",
       "highlights": ["Python", "AppIndicator", "GTK"],
       "url": "https://github.com/jgafnea/traycgm"
     },
