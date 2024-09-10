@@ -87,16 +87,23 @@
     {
       "name": "Tray CGM",
       "isActive": true,
-      "description": "Desktop application created to display glucose reading in system tray. Service polls medical device API and updates icon with latest values.",
+      "description": "Desktop application created to display glucose reading (used by diabetics) in system tray. Service polls medical device API and updates icon when values change.",
       "highlights": ["Python", "AppIndicator", "GTK"],
       "url": "https://github.com/jgafnea/traycgm"
     },
     {
       "name": "Startup",
       "isActive": true,
-      "description": "Website for fictional startup created to see what's possible without JavaScript. Content fetched from APIs and combined to form nonsense pitch ideas.",
+      "description": "Website created to see what's possible without server-side JavaScript toolchains. Content fetched from APIs and combined to form nonsense pitch ideas.",
       "highlights": ["Python", "Flask", "GitHub Actions"],
       "url": "https://github.com/jgafnea/startup"
+    },
+    {
+      "name": "Portfolio",
+      "isActive": true,
+      "description": "Online portfolio created to show practical code solutions to real problems. Page uses CI/CD to build and update HTML content from JSON data.",
+      "highlights": ["TypeScript", "Astro", "GitHub Actions"],
+      "url": "https://github.com/jgafnea/jgafnea.github.io"
     }
   ]
 }
