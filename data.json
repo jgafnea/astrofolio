@@ -92,7 +92,7 @@
     {
       "name": "Startup",
       "isActive": true,
-      "description": "Webapp created to see what's possible using only static content and client-side JavaScript. Uses CI/CD to automate build and deployment to PaaS.",
+      "description": "Webapp created to see what's possible using only static content and client-side JavaScript. Uses CI/CD to automate build and deployment to PaaS (Koyeb).",
       "highlights": ["Python", "Flask", "GitHub Actions"],
       "url": "https://github.com/jgafnea/startup"
     },
