@@ -62,10 +62,8 @@
     "Ansible",
     "Bash",
     "Docker",
-    "GCP",
     "Git",
     "GitHub Actions",
-    "Go",
     "Go",
     "Grafana",
     "JavaScript",
@@ -80,7 +78,7 @@
     {
       "name": "Bookish",
       "isActive": true,
-      "description": "CLI tool created to search and download eBooks without spammy websites. Uses LibGen API to search books and resolve mirror links to direct downloads.",
+      "description": "CLI tool created to search and download eBooks without navigating spammy websites. Tool uses LibGen API to search titles and resolve mirror links to direct downloads.",
       "highlights": ["Python", "Poetry", "Docker"],
       "url": "https://github.com/jgafnea/bookish"
     },
@@ -94,14 +92,14 @@
     {
       "name": "Startup",
       "isActive": true,
-      "description": "Website created to see what's possible without server-side JavaScript toolchains. Content fetched from APIs and combined to form nonsense pitch ideas.",
+      "description": "Webapp created to see what's possible using only static content and client-side JavaScript. Uses CI/CD to automate build and deployment to PaaS.",
       "highlights": ["Python", "Flask", "GitHub Actions"],
       "url": "https://github.com/jgafnea/startup"
     },
     {
       "name": "Portfolio",
       "isActive": true,
-      "description": "Online portfolio created to show practical code solutions to real problems. Page uses CI/CD to build and update HTML content from JSON data.",
+      "description": "Online portfolio created to show practical code solutions to real-world problems (admittedly small ones). Uses CI/CD to automate build and deployment to GitHub Pages.",
       "highlights": ["TypeScript", "Astro", "GitHub Actions"],
       "url": "https://github.com/jgafnea/jgafnea.github.io"
     }
