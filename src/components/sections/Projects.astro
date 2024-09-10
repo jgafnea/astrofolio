@@ -7,15 +7,16 @@ import { projects } from "@json";
   <ul>
     {
       projects.map(({ url, description, highlights, name, isActive }) => {
-        return (
+        // Repurpose isActive to show/hide each project
+        return isActive ? (
           <li>
             <article>
               <header>
                 <h3>
-                  <a href={url} title={`See the project ${name}`}>
+                  <a href={url} title={`Click to see ${name} code repo`}>
                     {name}
                   </a>
-                  {isActive && <span>&bull;</span>}
+                  {/* {isActive && <span>&bull;</span>} */}
                 </h3>
                 <p>{description}</p>
               </header>
@@ -26,7 +27,8 @@ import { projects } from "@json";
               </footer>
             </article>
           </li>
-        );
+        ) : // Show null/nothing for projects not marked isActive
+        null;
       })
     }
   </ul>

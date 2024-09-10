@@ -6,7 +6,7 @@
     "email": "jgafnea@gmail.com",
     "phone": "",
     "url": "https://jgafnea.github.io",
-    "summary": "",
+    "summary": "Hi, I'm a seasoned professional with ten years in IT, mostly focusing on deploying infrastructure, supporting users, and finding ways to make things easier. Additionally, I bring a background in service and hospitality, so I can effectively \"do the needful\" working with machines and humans alike (kidding, but serious).",
     "location": {
       "address": "",
       "postalCode": "",
@@ -62,8 +62,10 @@
     "Ansible",
     "Bash",
     "Docker",
+    "GCP",
     "Git",
     "GitHub Actions",
+    "Go",
     "Go",
     "Grafana",
     "JavaScript",
@@ -77,28 +79,22 @@
   "projects": [
     {
       "name": "Bookish",
-      "isActive": "",
-      "startDate": "",
-      "endDate": "",
+      "isActive": true,
       "description": "CLI tool created to search and download eBooks without spammy websites. Uses LibGen API to search books and resolve mirror links to direct downloads.",
       "highlights": ["Python", "Poetry", "Docker"],
       "url": "https://github.com/jgafnea/bookish"
     },
     {
       "name": "Tray CGM",
-      "isActive": "",
-      "startDate": "",
-      "endDate": "",
+      "isActive": true,
       "description": "Desktop application created to display glucose reading in system tray. Service polls medical device API and and updates icon with latest values.",
       "highlights": ["Python", "AppIndicator", "GTK"],
       "url": "https://github.com/jgafnea/traycgm"
     },
     {
       "name": "Startup",
-      "isActive": "",
-      "startDate": "",
-      "endDate": "",
-      "description": "Static landing page created to see what's possible without JavaScript. Content fetched from APIs and combined to form nonsense pitch ideas.",
+      "isActive": true,
+      "description": "Website for fictional startup created to see what's possible without JavaScript. Content fetched from APIs and combined to form nonsense pitch ideas.",
       "highlights": ["Python", "Flask", "GitHub Actions"],
       "url": "https://github.com/jgafnea/startup"
     }
