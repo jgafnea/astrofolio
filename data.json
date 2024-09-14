@@ -92,14 +92,14 @@
     {
       "name": "Startup",
       "isActive": true,
-      "description": "Webapp created to see what's possible using only static content and client-side JavaScript. Uses CI/CD to automate build and deployment to PaaS (Koyeb).",
-      "highlights": ["Python", "Flask", "GitHub Actions"],
+      "description": "Web frontend created to see what's possible using server-side Python instead of client-side JavaScript. Uses CI/CD to automate build and deployment to Koyeb (PaaS).",
+      "highlights": ["Python", "Flask", "Jinja/HTML", "GitHub Actions"],
       "url": "https://github.com/jgafnea/startup"
     },
     {
       "name": "Portfolio",
       "isActive": true,
-      "description": "Online portfolio created to show practical code solutions to real-world problems (admittedly small ones). Uses CI/CD to automate build and deployment to GitHub Pages.",
+      "description": "Online portfolio created to show examples of code used to solve problems (small ones, admittedly). Uses CI/CD to automate build and deployment to GitHub Pages.",
       "highlights": ["TypeScript", "Astro", "GitHub Actions"],
       "url": "https://github.com/jgafnea/jgafnea.github.io"
     }
