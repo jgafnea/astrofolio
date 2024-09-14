@@ -93,7 +93,7 @@
       "name": "Startup",
       "isActive": true,
       "description": "Web frontend created to see what's possible using server-side Python instead of client-side JavaScript. Uses CI/CD to automate build and deployment to Koyeb (PaaS).",
-      "highlights": ["Python", "Flask", "Jinja/HTML", "GitHub Actions"],
+      "highlights": ["Python", "Flask", "Jinja", "GitHub Actions"],
       "url": "https://github.com/jgafnea/startup"
     },
     {
