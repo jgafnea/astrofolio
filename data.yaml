@@ -1,0 +1,116 @@
+basics:
+  name: John Gafnea
+  label: Infrastructure Engineer
+  email: jgafnea@gmail.com
+  phone: ""
+  image: ""
+  location:
+    address: ""
+    city: ""
+    countryCode: ""
+    postalCode: ""
+    region: ""
+  profiles:
+    - network: Mail
+      url: mailto:jgafnea@gmail.com
+      username: ""
+    - network: Telegram
+      url: https://t.me/jgafnea
+      username: jgafnea
+    - network: GitHub
+      url: https://github.com/jgafnea
+      username: jgafnea
+    - network: LinkedIn
+      url: https://linkedin.com/in/jgafnea
+      username: jgafnea
+  # Use `>` to fold for readability (still read as a single line).
+  summary: >
+    Hi, I'm a seasoned professional with ten years in IT, mostly focusing on
+    deploying infrastructure, supporting users, and finding ways to make things
+    easier. Additionally, I bring a background in service and hospitality, so I
+    can effectively "do the needful" working with machines and humans alike
+    (kidding, but serious).
+  url: https://jgafnea.github.io
+
+education:
+  - degree: ""
+    description: ""
+    endDate: ""
+    institution: ""
+    startDate: ""
+
+projects:
+  - name: Bookish
+    description: >
+      CLI tool created to search and download eBooks without navigating spammy
+      websites. Tool uses LibGen API to search titles and resolve mirror links
+      to direct downloads.
+    highlights:
+      - Python
+      - Poetry
+      - Docker
+    isActive: yes
+    url: https://github.com/jgafnea/bookish
+
+  - name: Tray CGM
+    description: >
+      Desktop application created to display glucose reading (used by diabetics)
+      in system tray. Service polls medical device API and updates icon when
+      values change.
+    highlights:
+      - Python
+      - AppIndicator
+      - GTK
+    isActive: yes
+    url: https://github.com/jgafnea/traycgm
+
+  - name: Startup
+    description: >
+      Web frontend created to see what's possible using server-side Python
+      instead of client-side JavaScript. Uses CI/CD to automate build and
+      deployment to Koyeb (PaaS).
+    highlights:
+      - Python
+      - Flask
+      - Jinja
+      - GitHub Actions
+    isActive: yes
+    url: https://github.com/jgafnea/startup
+
+  - name: Portfolio
+    description: >
+      Online portfolio created to show examples of code used to solve problems
+      (small ones, admittedly). Uses CI/CD to automate build and deployment to
+      GitHub Pages.
+    highlights:
+      - TypeScript
+      - Astro
+      - GitHub Actions
+    isActive: yes
+    url: https://github.com/jgafnea/jgafnea.github.io
+
+skills:
+  - AWS
+  - Ansible
+  - Bash
+  - Docker
+  - Git
+  - GitHub Actions
+  - Go
+  - Grafana
+  - JavaScript
+  - Kubernetes
+  - Linux
+  - Prometheus
+  - Python
+  - SQL
+  - Terraform
+
+work:
+  - company: ""
+    endDate: ""
+    highlights: []
+    position: ""
+    startDate: ""
+    summary: ""
+    url: ""
